@@ -1,2 +1,2 @@
 # Automotive_Design_Copilot
-a SD based quick rendering tool
+Co-creation with AI in car design with ADC project(a SD based car design tool)
